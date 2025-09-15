@@ -15,3 +15,8 @@ Each row is a customer; target **Churn**; key features include **tenure**, **Mon
 4. Execute cells top-to-bottom: EDA → OLS → Logistic → GAM → Comparison.
 
 ## Repo structure
+.
+├── data/              # dataset lives here
+├── notebooks/         # Colab .ipynb
+├── README.md
+└── requirements.txt   # versions for local reproducibility
